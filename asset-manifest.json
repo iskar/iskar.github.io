@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/siege/static/css/main.a4364c4c.chunk.css",
-    "main.js": "/siege/static/js/main.45e745ab.chunk.js",
-    "main.js.map": "/siege/static/js/main.45e745ab.chunk.js.map",
-    "runtime-main.js": "/siege/static/js/runtime-main.75c8ade3.js",
-    "runtime-main.js.map": "/siege/static/js/runtime-main.75c8ade3.js.map",
-    "static/js/2.f2c60c89.chunk.js": "/siege/static/js/2.f2c60c89.chunk.js",
-    "static/js/2.f2c60c89.chunk.js.map": "/siege/static/js/2.f2c60c89.chunk.js.map",
-    "index.html": "/siege/index.html",
-    "precache-manifest.14635908341a7f817e3853b33c9c0ed0.js": "/siege/precache-manifest.14635908341a7f817e3853b33c9c0ed0.js",
-    "service-worker.js": "/siege/service-worker.js",
-    "static/css/main.a4364c4c.chunk.css.map": "/siege/static/css/main.a4364c4c.chunk.css.map"
+    "main.css": "/static/css/main.a4364c4c.chunk.css",
+    "main.js": "/static/js/main.d8c1b173.chunk.js",
+    "main.js.map": "/static/js/main.d8c1b173.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2cdcda38.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2cdcda38.js.map",
+    "static/js/2.f2c60c89.chunk.js": "/static/js/2.f2c60c89.chunk.js",
+    "static/js/2.f2c60c89.chunk.js.map": "/static/js/2.f2c60c89.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.01bc460cc70d9f59c89fcb0d5770b7fd.js": "/precache-manifest.01bc460cc70d9f59c89fcb0d5770b7fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a4364c4c.chunk.css.map": "/static/css/main.a4364c4c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.75c8ade3.js",
+    "static/js/runtime-main.2cdcda38.js",
     "static/js/2.f2c60c89.chunk.js",
     "static/css/main.a4364c4c.chunk.css",
-    "static/js/main.45e745ab.chunk.js"
+    "static/js/main.d8c1b173.chunk.js"
   ]
 }
